@@ -1,0 +1,7 @@
+C:\Users\moham\source\repos\TCPServerApp\bin\Debug\TCPServerApp.exe.config
+C:\Users\moham\source\repos\TCPServerApp\bin\Debug\TCPServerApp.exe
+C:\Users\moham\source\repos\TCPServerApp\bin\Debug\TCPServerApp.pdb
+C:\Users\moham\source\repos\TCPServerApp\obj\Debug\TCPServerApp.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\TCPServerApp\obj\Debug\TCPServerApp.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\TCPServerApp\obj\Debug\TCPServerApp.exe
+C:\Users\moham\source\repos\TCPServerApp\obj\Debug\TCPServerApp.pdb

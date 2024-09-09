@@ -1,0 +1,7 @@
+C:\Users\moham\source\repos\TCPClintApp\bin\Debug\TCPClintApp.exe.config
+C:\Users\moham\source\repos\TCPClintApp\bin\Debug\TCPClintApp.exe
+C:\Users\moham\source\repos\TCPClintApp\bin\Debug\TCPClintApp.pdb
+C:\Users\moham\source\repos\TCPClintApp\obj\Debug\TCPClintApp.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\TCPClintApp\obj\Debug\TCPClintApp.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\TCPClintApp\obj\Debug\TCPClintApp.exe
+C:\Users\moham\source\repos\TCPClintApp\obj\Debug\TCPClintApp.pdb
