@@ -4,7 +4,7 @@
 
 **Contributors**:
 - Mohamed F Salim
-- Jamal A Ahmed
+- Jamal A Ahme
 
 ---
 
