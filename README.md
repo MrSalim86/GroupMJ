@@ -16,13 +16,8 @@ In simpler terms, we aim to **understand business contexts** and build systems c
 
 ---
 
-## 🎯 Learning Objectives
-
-Our learning goals are grounded in the curriculum (*studieordning*) and cover key areas such as business strategy, technology, and security in the context of system integration.
-
 ### 🧠 Knowledge
 
-By the end of this course, students will have gained knowledge in:
 - **V1**: Business considerations surrounding system integration
 - **V2**: Data storage, transformation, and integration
 - **V3**: Service concepts and their relation to service-oriented architecture
@@ -34,7 +29,6 @@ By the end of this course, students will have gained knowledge in:
 
 ### 💡 Skills
 
-Students will develop practical skills that enable them to:
 - **F1**: Utilize heterogeneous systems in a service-oriented architecture
 - **F2**: Design integrable systems and systems that leverage existing services
 - **F3**: Transform or extend systems to function in a service-oriented architecture
@@ -48,7 +42,6 @@ Students will develop practical skills that enable them to:
 
 ### 🔧 Competencies
 
-Students will develop the following competencies:
 - **K1**: Ability to continuously acquire new knowledge on the evolution of integration technologies
 - **K2**: Capacity to participate in the development and adaptation of methods and processes for system integration
 
